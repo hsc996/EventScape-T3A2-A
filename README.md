@@ -1,4 +1,4 @@
-# EventScape - Event Management Social Platform
+# EventScape: Event Management Social Platform
 ## FULL STACK APP T3A2-A
 
 
@@ -81,26 +81,40 @@ Key demographics include:
 The app is built using the **MERN stack** (MongoDB, Express.js, React, and Node.js) for a scalable, dynamic, and mobile-responsive experience. Additional integrations enhance functionality and user engagement. 
 
 **Frontend:**
-    * Framework: React
-    * Routing: React Router DOM
-    * Styling: Font Awesome, Flexbox
-    * Build Tool: Vite
+
+* Framework: React
+* Routing: React Router DOM
+* Styling: Font Awesome, Flexbox
+* Build Tool: Vite
 
 **Backend:**
-    * Framework: Node.js, Express.js
-    * Database: MongoDB Atlas, managed with Mongoose
-    * Authentication & Security: bcrypt, jsonwebtoken, helmet
+
+* Framework: Node.js, Express.js
+* Database: MongoDB Atlas, managed with Mongoose
+* Authentication & Security: bcrypt, jsonwebtoken, helmet
 
 **Third-Party API Integration**
-    * Google Calendar API, Google's OAuth 2.0 flow.
 
-- **Deployment**:  
-    * Front-End: Netlify
-    * Back-End: Render
+* Google Calendar API, Google's OAuth 2.0 flow.
 
-- **Version Control**: Git and GitHub for collaborative development. 
+**Deployment**:
+
+* Front-End: Netlify
+* Back-End: Render
+
+**Version Control**:
+
+* Git and GitHub for collaborative development. 
 
 **Development Tools:**
-    * Build & Development: Vite, Nodemon
-    * Linting: ESLint with React-specific plugins
+
+ * Build & Development: Vite, Nodemon
+* Linting: ESLint with React-specific plugins
+
+
+## Data Flow Diagram
+
+
+![DFD](/docs/DFD2_FINAL.png)
+
 
