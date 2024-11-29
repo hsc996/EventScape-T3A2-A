@@ -9,7 +9,7 @@ EventScape is a modern, customisable app designed to simplify event planning and
 EventScape's focus on privacy, creativity and community engagement makes it ideal for individuals and groups seeking a unique and user-friendly way to organise events, from casual gatherings to larger-scale activites.
 
 
- 
+
 
 ## Core Features
 
@@ -124,3 +124,38 @@ This Data Flow Diagram (DFD) follows the Yourdon and Coad notation in order to p
 * Arrows (Data Flows): Indicate the direction of data movement between processes, data stores and external entites, showcasing how information is passed througout the system. Each arrow is colour-coded, to avoid confusion: a diagram colour key has been included for the same purpose. For further clarity, each arrow has been numbered regarding where each data process begins and ends.
 * Squares (External Entities): Depict the external actors or systems that interact with the system, either providing input or receiving input.
 * Open Rectangles (Data Stores): Illustrate where data is stored within the system, such as databases or file storage.
+
+
+## Application Architechture Diagram
+
+
+![AAD](/docs/Event_App_Architecture_Diagram.png)
+
+
+## User Stories
+
+![UserStories](/docs/User%20persona%20version%201.png)
+
+![UserStories2](/docs/User%20Personas%20Version%202%20.png)
+
+
+## Wireframes
+
+### Desktop Wireframes
+
+![WireframeDesktop1](/docs/Widescreen%20Wireframes%201.png)
+
+![WireframeDesktop2](/docs/Widescreen%20Wireframes%202.png)
+
+### Mobile Wireframes
+
+![WireframesMobile](/docs/Phone%20Wireframes.png)
+
+
+## Trello Board
+
+![appdec](/docs/trello/appdesc_checklist.png)
+
+![overview](/docs/trello/overview_trello1.png)
+
+![wireframe](/docs/trello/wireframes_trello.png)
