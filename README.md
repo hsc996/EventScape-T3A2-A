@@ -114,7 +114,7 @@ The app is built using the **MERN stack** (MongoDB, Express.js, React, and Node.
 
 **Development Tools:**
 
- * Build & Development: Vite, Nodemon
+* Build & Development: Vite, Nodemon
 * Linting: ESLint with React-specific plugins
 
 
@@ -172,3 +172,8 @@ This Data Flow Diagram (DFD) follows the Yourdon and Coad notation in order to p
 
 
 ## REFERENCES
+
+
+S, Y. (2021). _What exactly a MERN stack is?_ [online] Medium. Available at: https://medium.com/techiepedia/what-exactly-a-mern-stack-is-60c304bffbe4.
+
+Visual Paradigm. (2024). _DFD Tutorial: Yourdon Notation._ [online] Available at: https://online.visual-paradigm.com/knowledge/software-design/dfd-tutorial-yourdon-notation.
