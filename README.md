@@ -135,7 +135,7 @@ This Data Flow Diagram (DFD) follows the Yourdon and Coad notation in order to p
 ## Application Architechture Diagram
 
 
-![AAD](/docs/Event_App_Architecture_Diagram.png)
+![AAD](/docs/APP_ARCH_D.png)
 
 
 
