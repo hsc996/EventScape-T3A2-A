@@ -17,14 +17,13 @@ EventScape is a modern, customisable app designed to simplify event planning and
 EventScape's focus on privacy, creativity and community engagement makes it ideal for individuals and groups seeking a unique and user-friendly way to organise events, from casual gatherings to larger-scale activites.
 
 
-
 ## Core Features
 
 1. **Event Creation**:  
    * Add event name, date, time, location, and description.  
    * Pre-set templates and colour schemes for quick customisation.  
    * Options to set events as Public and Private
-   * User can track what events they’re attending on their Calendar page
+   * User can track what events they’re attending on the My Calendar page
 
 2. **RSVP and Guest Management**:  
    * Simple RSVP system for attendees, they can pick attending, maybe or cannot attend
@@ -38,8 +37,6 @@ EventScape's focus on privacy, creativity and community engagement makes it idea
 
 5. **Mobile Optimisation**:  
    * A mobile-first design to ensure smooth event creation and discovery on smartphones.  
-
-
 
 ## Expanded Features
 
