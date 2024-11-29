@@ -17,14 +17,13 @@ EventScape is a modern, customisable app designed to simplify event planning and
 EventScape's focus on privacy, creativity and community engagement makes it ideal for individuals and groups seeking a unique and user-friendly way to organise events, from casual gatherings to larger-scale activites.
 
 
-
 ## Core Features
 
 1. **Event Creation**:  
    * Add event name, date, time, location, and description.  
    * Pre-set templates and colour schemes for quick customisation.  
    * Options to set events as Public and Private
-   * User can track what events they’re attending on their Calendar page
+   * User can track what events they’re attending on the My Calendar page
 
 2. **RSVP and Guest Management**:  
    * Simple RSVP system for attendees, they can pick attending, maybe or cannot attend
@@ -45,7 +44,7 @@ EventScape's focus on privacy, creativity and community engagement makes it idea
 
 1. **Advanced Customisation**:  
    * Drag-and-drop editor for deeper event page personalisation.  
-   * Upload custom images or themes for event invites.  
+   * Upload custom-made images or themes for event invites.  
 
 2. **Google Calendar Integration**:  
    * Sync events to personal calendars using the Google Calendar API.  
@@ -142,7 +141,11 @@ This Data Flow Diagram (DFD) follows the Yourdon and Coad notation in order to p
 
 ## User Stories
 
+The image below is the first iteration of user stories, giving 4 different perscpectives of what problem the app will solve.
+
 ![UserStories](/docs/User%20persona%20version%201.png)
+
+The second iteration(below), is a refined version of the user stories with more of a focus on the MVP of the app.
 
 ![UserStories2](/docs/User%20Personas%20Version%202%20.png)
 
