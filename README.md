@@ -2,7 +2,7 @@
 ## FULL STACK APP T3A2-A
 
 
-### About EventScape
+## About EventScape
 
 EventScape is a modern, customisable app designed to simplify event planning and invitations. Its offers a private, visually engaging platform where users can host, discover and personalise events with creative themes inspired by Bebo's customisation features. We've integrated the Google Calendar in order to further streamline event scheduling, making it an intuitive alternative to traditional platforms like Facebook Events.
 
@@ -11,7 +11,7 @@ EventScape's focus on privacy, creativity and community engagement makes it idea
 
  
 
-### Core Features
+## Core Features
 
 1. **Event Creation**:  
    - Add event name, date, time, location, and description.  
@@ -34,7 +34,7 @@ EventScape's focus on privacy, creativity and community engagement makes it idea
 
 
 
-### Expanded Features
+## Expanded Features
 
 1. **Advanced Customisation**:  
    - Drag-and-drop editor for deeper event page personalisation.  
@@ -59,7 +59,7 @@ EventScape's focus on privacy, creativity and community engagement makes it idea
 
 
 
-### Target Audience
+## Target Audience
 
 The app is designed for individuals and small communities seeking a fresh alternative to traditional event platforms like Facebook. 
 
@@ -76,7 +76,7 @@ Key demographics include:
 
 
 
-### Tech Stack
+## Tech Stack
 
 The app is built using the **MERN stack** (MongoDB, Express.js, React, and Node.js) for a scalable, dynamic, and mobile-responsive experience. Additional integrations enhance functionality and user engagement. 
 
