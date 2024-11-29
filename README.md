@@ -115,6 +115,12 @@ The app is built using the **MERN stack** (MongoDB, Express.js, React, and Node.
 ## Data Flow Diagram
 
 
-![DFD](/docs/DFD2_FINAL.png)
+![DFD](/docs/FINALDFD.png)
 
 
+This Data Flow Diagram (DFD) follows the Yourdon and Coad notation in order to provide a clear and structured visualisation of how the data will be processed, stores and communicated within this application. By following this notation style, the diagram ensures consistency, clarity and an easily interpretable view of system interaction at a high level. The diagram uses the following conventions:
+
+* Circles (Processes): Represent the key operations or processes in the system, which transform incoming data into outputs.
+* Arrows (Data Flows): Indicate the direction of data movement between processes, data stores and external entites, showcasing how information is passed througout the system. Each arrow is colour-coded, to avoid confusion: a diagram colour key has been included for the same purpose. For further clarity, each arrow has been numbered regarding where each data process begins and ends.
+* Squares (External Entities): Depict the external actors or systems that interact with the system, either providing input or receiving input.
+* Open Rectangles (Data Stores): Illustrate where data is stored within the system, such as databases or file storage.
