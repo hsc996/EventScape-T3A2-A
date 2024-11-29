@@ -38,11 +38,13 @@ EventScape's focus on privacy, creativity and community engagement makes it idea
 5. **Mobile Optimisation**:  
    * A mobile-first design to ensure smooth event creation and discovery on smartphones.  
 
+
+
 ## Expanded Features
 
 1. **Advanced Customisation**:  
    * Drag-and-drop editor for deeper event page personalisation.  
-   * Upload custom images or themes for event invites.  
+   * Upload custom-made images or themes for event invites.  
 
 2. **Google Calendar Integration**:  
    * Sync events to personal calendars using the Google Calendar API.  
@@ -139,7 +141,11 @@ This Data Flow Diagram (DFD) follows the Yourdon and Coad notation in order to p
 
 ## User Stories
 
+The image below is the first iteration of user stories, giving 4 different perscpectives of what problem the app will solve.
+
 ![UserStories](/docs/User%20persona%20version%201.png)
+
+The second iteration(below), is a refined version of the user stories with more of a focus on the MVP of the app.
 
 ![UserStories2](/docs/User%20Personas%20Version%202%20.png)
 
