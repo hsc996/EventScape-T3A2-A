@@ -7,7 +7,7 @@
 
 **Hannah Scaife:** Data Flow Diagram, App Architechture Diagram
 
-Research and website description completed by both contributors.
+Note: Research and website description completed by both contributors.
 
 
 ## About EventScape
@@ -122,7 +122,7 @@ The app is built using the **MERN stack** (MongoDB, Express.js, React, and Node.
 ## Data Flow Diagram
 
 
-![DFD](/docs/FINALDFD.png)
+![DFD](/docs/DFD4.png)
 
 
 This Data Flow Diagram (DFD) follows the Yourdon and Coad notation in order to provide a clear and structured visualisation of how the data will be processed, stores and communicated within this application. By following this notation style, the diagram ensures consistency, clarity and an easily interpretable view of system interaction at a high level. The diagram uses the following conventions:
