@@ -1,6 +1,13 @@
 # EventScape: Event Management Social Platform
 ## FULL STACK APP T3A2-A
 
+## Contributors
+
+**Steph Elsley:** User Stories, Wireframes
+**Hannah Scaife:** Data Flow Diagram, App Architechture Diagram
+
+Research and website description completed by both contributors.
+
 
 ## About EventScape
 
@@ -10,50 +17,49 @@ EventScape's focus on privacy, creativity and community engagement makes it idea
 
 
 
-
 ## Core Features
 
 1. **Event Creation**:  
-   - Add event name, date, time, location, and description.  
-   - Pre-set templates and colour schemes for quick customisation.  
-   - Options to set events as Public and Private
-   - User can track what events they’re attending on their Calendar page
+   * Add event name, date, time, location, and description.  
+   * Pre-set templates and colour schemes for quick customisation.  
+   * Options to set events as Public and Private
+   * User can track what events they’re attending on their Calendar page
 
 2. **RSVP and Guest Management**:  
-   - Simple RSVP system for attendees, they can pick attending, maybe or cannot attend
+   * Simple RSVP system for attendees, they can pick attending, maybe or cannot attend
 
 3. **Event Discovery**:  
-   - Search page to browse public events based on filters (categories, location, date)
+   * Search page to browse public events based on filters (categories, location, date)
   
 4. **Privacy and Security**:  
-   - Customisable privacy settings for profiles and events
-   - Ability to hide personal information
+   * Customisable privacy settings for profiles and events
+   * Ability to hide personal information
 
 5. **Mobile Optimisation**:  
-   - A mobile-first design to ensure smooth event creation and discovery on smartphones.  
+   * A mobile-first design to ensure smooth event creation and discovery on smartphones.  
 
 
 
 ## Expanded Features
 
 1. **Advanced Customisation**:  
-   - Drag-and-drop editor for deeper event page personalisation.  
-   - Upload custom images or themes for event invites.  
+   * Drag-and-drop editor for deeper event page personalisation.  
+   * Upload custom images or themes for event invites.  
 
 2. **Google Calendar Integration**:  
-   - Sync events to personal calendars using the Google Calendar API.  
-   - Receive notifications and reminders directly from the calendar.  
+   * Sync events to personal calendars using the Google Calendar API.  
+   * Receive notifications and reminders directly from the calendar.  
 
 3. **Recurring Events**:  
-   - Options to set up weekly, monthly, or custom recurring events.  
+   * Options to set up weekly, monthly, or custom recurring events.  
 
 4. **Social Sharing**:  
-   - Generate shareable links for public events.  
-   - Integrated sharing to other platforms (e.g., Instagram, Twitter).  
+   * Generate shareable links for public events.  
+   * Integrated sharing to other platforms (e.g., Instagram, Twitter).  
 
 5. **Community Features**:  
-   - Event ratings and reviews to build trust for public events.  
-   - User communities or groups for niche interests (e.g., musicians, families).
+   * Event ratings and reviews to build trust for public events.  
+   * User communities or groups for niche interests (e.g., musicians, families).
  
 
 
@@ -132,11 +138,13 @@ This Data Flow Diagram (DFD) follows the Yourdon and Coad notation in order to p
 ![AAD](/docs/Event_App_Architecture_Diagram.png)
 
 
+
 ## User Stories
 
 ![UserStories](/docs/User%20persona%20version%201.png)
 
 ![UserStories2](/docs/User%20Personas%20Version%202%20.png)
+
 
 
 ## Wireframes
@@ -152,6 +160,7 @@ This Data Flow Diagram (DFD) follows the Yourdon and Coad notation in order to p
 ![WireframesMobile](/docs/Phone%20Wireframes.png)
 
 
+
 ## Trello Board
 
 ![appdec](/docs/trello/appdesc_checklist.png)
@@ -159,3 +168,7 @@ This Data Flow Diagram (DFD) follows the Yourdon and Coad notation in order to p
 ![overview](/docs/trello/overview_trello1.png)
 
 ![wireframe](/docs/trello/wireframes_trello.png)
+
+
+
+## REFERENCES
