@@ -4,6 +4,7 @@
 ## Contributors
 
 **Steph Elsley:** User Stories, Wireframes
+
 **Hannah Scaife:** Data Flow Diagram, App Architechture Diagram
 
 Research and website description completed by both contributors.
