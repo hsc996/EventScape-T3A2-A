@@ -165,7 +165,7 @@ Here is the Sitemap showing the interaction between pages:
 
 ### Wide-Screen Wireframes
 
-Below you can see the Desktop Wireframes, the first screenshot shows the 'Create new Account 'page, which upon clicking 'Sign-up' leads to the 'New Event' page, which leads to the My Events/My Calendar page upon clicking 'See My Events'.
+Below you can see the wide-screen wireframes, the first screenshot shows the 'Create new Account 'page, which upon clicking 'Sign-up' leads to the 'See My Events' page, which leads to the My Events/My Calendar. The 'Create New' button leads to the Event Creation page, where the user creates the event invitation. In the second screenshot there are examples of what a user might 'publish' as their styled Event Invite. There is also a 'See you there!' page when a user clicks 'Attending' on an event.
 
 
 ![WireframeDesktop1](/docs/Widescreen%20Wireframes%201.png)
