@@ -156,6 +156,10 @@ The second iteration(below), is a refined version of the user stories with more 
 
 ## Wireframes
 
+For the wireframes I've kept the styling simple, using Poppins as the main font, used because its a clear easy to read font. I've gone with a simple colour scheme, to not be too disctracting for users, especially since a large feature of the app is the colour customisation.
+
+![ColourPalette](/docs/Colour%20Palette.png)
+
 Here is the Sitemap showing the interaction between pages:
 <img width="884" alt="Sitemap" src="https://github.com/user-attachments/assets/fc70f7ea-235c-4559-85d8-e6df66485b66">
 
@@ -169,6 +173,8 @@ Below you can see the Desktop Wireframes, the first screenshot shows the 'Create
 ![WireframeDesktop2](/docs/Widescreen%20Wireframes%202.png)
 
 ### Mobile Wireframes
+
+I've kept the Mobile wireframes simple, similar to the Wide-screen wireframes, just with vertical stacking instead of the larger grid used for the wide-screen wireframes.
 
 ![WireframesMobile](/docs/Phone%20Wireframes.png)
 
