@@ -154,14 +154,15 @@ The second iteration(below), is a refined version of the user stories with more 
 ![UserPersonas2](/docs/User%20Personas%20Version%202%20.png)
 
 
-
-
 ## Wireframes
 
-Sitemap 
+Here is the Sitemap showing the interaction between pages:
 <img width="884" alt="Sitemap" src="https://github.com/user-attachments/assets/fc70f7ea-235c-4559-85d8-e6df66485b66">
 
-### Desktop Wireframes
+### Wide-Screen Wireframes
+
+Below you can see the Desktop Wireframes, the first screenshot shows the 'Create new Account 'page, which upon clicking 'Sign-up' leads to the 'New Event' page, which leads to the My Events/My Calendar page upon clicking 'See My Events'.
+
 
 ![WireframeDesktop1](/docs/Widescreen%20Wireframes%201.png)
 
