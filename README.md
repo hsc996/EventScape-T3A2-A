@@ -151,7 +151,11 @@ The second iteration(below), is a refined version of the user stories with more 
 
 
 
+
 ## Wireframes
+
+Sitemap 
+<img width="884" alt="Sitemap" src="https://github.com/user-attachments/assets/fc70f7ea-235c-4559-85d8-e6df66485b66">
 
 ### Desktop Wireframes
 
