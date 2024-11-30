@@ -17,7 +17,7 @@ EventScape is a modern, customisable app designed to simplify event planning and
 EventScape's focus on privacy, creativity and community engagement makes it ideal for individuals and groups seeking a unique and user-friendly way to organise events, from casual gatherings to larger-scale activites.
 
 
-## Core Features
+## Core Features/MVP
 
 1. **Event Creation**:  
    * Add event name, date, time, location, and description.  
@@ -26,7 +26,7 @@ EventScape's focus on privacy, creativity and community engagement makes it idea
    * User can track what events they’re attending on the My Calendar page
 
 2. **RSVP and Guest Management**:  
-   * Simple RSVP system for attendees, they can pick attending, maybe or cannot attend
+   * Simple RSVP system where users can click 'attending', 'maybe' or 'can't go' 
 
 3. **Event Discovery**:  
    * Search page to browse public events based on filters (categories, location, date)
@@ -38,26 +38,26 @@ EventScape's focus on privacy, creativity and community engagement makes it idea
 5. **Mobile Optimisation**:  
    * A mobile-first design to ensure smooth event creation and discovery on smartphones.  
 
+6. **Google Calendar Integration**:  
+   * Sync events to personal calendars using the Google Calendar API.  
+   
 
 
-## Expanded Features
+
+## Strech Goals
 
 1. **Advanced Customisation**:  
    * Drag-and-drop editor for deeper event page personalisation.  
    * Upload custom-made images or themes for event invites.  
 
-2. **Google Calendar Integration**:  
-   * Sync events to personal calendars using the Google Calendar API.  
-   * Receive notifications and reminders directly from the calendar.  
-
-3. **Recurring Events**:  
+2. **Recurring Events**:  
    * Options to set up weekly, monthly, or custom recurring events.  
 
-4. **Social Sharing**:  
+3. **Social Sharing**:  
    * Generate shareable links for public events.  
    * Integrated sharing to other platforms (e.g., Instagram, Twitter).  
 
-5. **Community Features**:  
+4. **Community Features**:  
    * Event ratings and reviews to build trust for public events.  
    * User communities or groups for niche interests (e.g., musicians, families).
  
@@ -156,7 +156,7 @@ The second iteration(below), is a refined version of the user stories with more 
 
 ## Wireframes
 
-For the wireframes I've kept the styling simple, using Poppins as the main font, used because its a clear easy to read font. I've gone with a simple colour scheme, to not be too disctracting for users, especially since a large feature of the app is the colour customisation.
+For the wireframes I've kept the styling simple, using Poppins as the main font, used because its a clear easy to read font. I've gone with a simple colour scheme, to not be too disctracting for users, especially since a large feature of the app is the colour customisation. I've kept the layout to be in grids, with ample space between elements so it has a simple, clean look.
 
 ![ColourPalette](/docs/Colour%20Palette.png)
 
