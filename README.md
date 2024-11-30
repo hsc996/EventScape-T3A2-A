@@ -182,6 +182,11 @@ Below you can see the Desktop Wireframes, the first screenshot shows the 'Create
 
 ![wireframe](/docs/trello/wireframes_trello.png)
 
+![finaliseA](/docs//duedate_trello.png)
+
+![dates_trello](docs/dates_trello.png)
+
+Our team has utilised the Agile planning methodology with Trello to efficiently manage our application development process. We've structured our workflow with "To Do," "In Progress," and "Completed" card lists to maintain clear organisation. Each task card includes due dates, relevant links, detailed checklists, and member assignments, ensuring accountability and streamlined collaboration.
 
 
 ## REFERENCES
