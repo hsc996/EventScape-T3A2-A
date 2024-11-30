@@ -184,8 +184,6 @@ I've kept the Mobile wireframes simple, similar to the Wide-screen wireframes, j
 
 ![appdec](/docs/trello/appdesc_checklist.png)
 
-![overview](/docs/trello/overview_trello1.png)
-
 ![wireframe](/docs/trello/wireframes_trello.png)
 
 ![finaliseA](/docs//duedate_trello.png)
