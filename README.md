@@ -197,7 +197,11 @@ Our team has utilised the Agile planning methodology with Trello to efficiently 
 
 ## REFERENCES
 
+GeeksforGeeks (2024) _Event Management Web App using MERN_, GeeksforGeeks [Preprint]. Available at: https://doi.org/10/2628/2963/7726/7835.
 
 S, Y. (2021). _What exactly a MERN stack is?_ [online] Medium. Available at: https://medium.com/techiepedia/what-exactly-a-mern-stack-is-60c304bffbe4.
 
 Visual Paradigm. (2024). _DFD Tutorial: Yourdon Notation._ [online] Available at: https://online.visual-paradigm.com/knowledge/software-design/dfd-tutorial-yourdon-notation.
+
+
+‌
