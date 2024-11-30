@@ -141,13 +141,17 @@ This Data Flow Diagram (DFD) follows the Yourdon and Coad notation in order to p
 
 ## User Stories
 
-The image below is the first iteration of user stories, giving 4 different perscpectives of what problem the app will solve.
+The image below is the user stories for EventScape, 4 user stories in the "As a {person}, I want to do {feature/action} because of {need/reason}" format.
 
-![UserStories](/docs/User%20persona%20version%201.png)
+![UserStories](docs/User%20Stories.png)
+
+As an elabration of the user stories above, please see below  the first iteration of the user personas and their different perscpectives of what problem the app will solve.
+
+![UserPersonas](/docs/User%20persona%20version%201.png)
 
 The second iteration(below), is a refined version of the user stories with more of a focus on the MVP of the app.
 
-![UserStories2](/docs/User%20Personas%20Version%202%20.png)
+![UserPersonas2](/docs/User%20Personas%20Version%202%20.png)
 
 
 
